@@ -1548,7 +1548,7 @@ object {
 }
 
 .comment-form label {
-	display: inline-block;
+	/* display: inline-block; */
 	width: 109px;
 }
 
